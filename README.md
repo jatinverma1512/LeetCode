@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jatinverma1512/LeetCode/tree/master/0018-4sum) |
+| [0876-middle-of-the-linked-list](https://github.com/jatinverma1512/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jatinverma1512/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jatinverma1512/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
