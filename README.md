@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jatinverma1512/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jatinverma1512/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jatinverma1512/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jatinverma1512/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/jatinverma1512/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinverma1512/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
