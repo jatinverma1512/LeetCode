@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jatinverma1512/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jatinverma1512/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jatinverma1512/LeetCode/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/jatinverma1512/LeetCode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jatinverma1512/LeetCode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
