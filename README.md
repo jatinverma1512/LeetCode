@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jatinverma1512/LeetCode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinverma1512/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatinverma1512/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jatinverma1512/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
