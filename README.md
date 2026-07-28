@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jatinverma1512/LeetCode/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/jatinverma1512/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/jatinverma1512/LeetCode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinverma1512/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jatinverma1512/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinverma1512/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
