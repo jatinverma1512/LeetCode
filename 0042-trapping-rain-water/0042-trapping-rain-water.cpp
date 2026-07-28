@@ -6,7 +6,6 @@ public:
         int water = 0;
 
         while(left < right){
-            //water choti height pe depend karega
             if(height[left] < height[right]){
                 if(height[left] >= leftmax){
                     leftmax = height[left];
