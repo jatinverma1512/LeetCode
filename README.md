@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jatinverma1512/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jatinverma1512/LeetCode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jatinverma1512/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatinverma1512/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jatinverma1512/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jatinverma1512/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinverma1512/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/jatinverma1512/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
