@@ -6,7 +6,7 @@ public:
     }
     
     void push(int x) {
-        int n= q.size();
+        int n = q.size();
         q.push(x);
         for(int i=0; i<n; i++){
             int front = q.front();
@@ -22,7 +22,8 @@ public:
     }
     
     int top() {
-        return q.front();
+        int top = q.front();
+        return top;
     }
     
     bool empty() {
