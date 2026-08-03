@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/jatinverma1512/LeetCode/tree/master/0322-coin-change) |
 ## Backtracking
@@ -211,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/jatinverma1512/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
 |  |
