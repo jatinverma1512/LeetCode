@@ -12,7 +12,7 @@
 class Solution {
 public:
     bool solve(TreeNode* root, long long lb, long long ub){
-        if(root == NULL) return true;
+        if(root == NULL)return true;
 
         bool inRange = root->val > lb && root->val < ub;
 
