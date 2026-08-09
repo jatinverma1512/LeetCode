@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/jatinverma1512/LeetCode/tree/master/0176-second-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/jatinverma1512/LeetCode/tree/master/1068-product-sales-analysis-i) |
 ## Data Stream
 |  |
