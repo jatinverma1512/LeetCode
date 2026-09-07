@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jatinverma1512/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jatinverma1512/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatinverma1512/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jatinverma1512/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jatinverma1512/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/jatinverma1512/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatinverma1512/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jatinverma1512/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -345,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/jatinverma1512/LeetCode/tree/master/1927-sum-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
