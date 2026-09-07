@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/jatinverma1512/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinverma1512/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/jatinverma1512/LeetCode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jatinverma1512/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jatinverma1512/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jatinverma1512/LeetCode/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinverma1512/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinverma1512/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
