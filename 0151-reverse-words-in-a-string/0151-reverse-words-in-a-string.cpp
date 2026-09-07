@@ -4,7 +4,6 @@ public:
         int n = s.length();
         string ans = "";
 
-        //reverse whole string
         reverse(s.begin(), s.end());
 
         for(int i=0; i<n; i++){
@@ -13,9 +12,8 @@ public:
                 word += s[i];
                 i++;
             }
-
             reverse(word.begin(), word.end());
-            if(word.length() > 0){
+            if(word.size() > 0){
                 ans += " " + word;
             }
         }
