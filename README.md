@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinverma1512/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/jatinverma1512/LeetCode/tree/master/0739-daily-temperatures) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinverma1512/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/jatinverma1512/LeetCode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinverma1512/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jatinverma1512/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jatinverma1512/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jatinverma1512/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jatinverma1512/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Trie
 |  |
