@@ -15,15 +15,16 @@ public:
         vector<vector<int>>ans;
         queue<TreeNode*>q;
         q.push(root);
-        bool LtoR = true;
 
         if(root == NULL) return ans;
+
+        bool LtoR = true;
 
         while(!q.empty()){
             int n = q.size();
             vector<int>level;
             for(int i=0; i<n; i++){
-                TreeNode* node= q.front();
+                TreeNode* node = q.front();
                 q.pop();
 
                 level.push_back(node->val);
