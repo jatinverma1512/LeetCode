@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jatinverma1512/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinverma1512/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/jatinverma1512/LeetCode/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jatinverma1512/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jatinverma1512/LeetCode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/jatinverma1512/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/jatinverma1512/LeetCode/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jatinverma1512/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Lifting
 |  |
 | ------- |
