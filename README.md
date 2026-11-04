@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jatinverma1512/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/jatinverma1512/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jatinverma1512/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jatinverma1512/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jatinverma1512/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/jatinverma1512/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinverma1512/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jatinverma1512/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jatinverma1512/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/jatinverma1512/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jatinverma1512/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/jatinverma1512/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/jatinverma1512/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jatinverma1512/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -335,10 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jatinverma1512/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatinverma1512/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -397,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jatinverma1512/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
