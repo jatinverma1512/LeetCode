@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jatinverma1512/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatinverma1512/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/jatinverma1512/LeetCode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatinverma1512/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jatinverma1512/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatinverma1512/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
